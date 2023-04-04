@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteRepositoriesConfiguration">
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://repo.maven.apache.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="256ea6a7-b6d3-4058-9fc4-356eaf642ae5" />
+      <option name="name" value="256ea6a7-b6d3-4058-9fc4-356eaf642ae5" />
+      <option name="url" value="http://maven.net.cn/content/groups/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="d4d5d0dd-c6d4-4af4-a3e9-dcd942b9bf15" />
+      <option name="name" value="d4d5d0dd-c6d4-4af4-a3e9-dcd942b9bf15" />
+      <option name="url" value="http://maven.aliyun.com/nexus/content/repositories/central/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
+      <option name="name" value="Maven Central repository" />
+      <option name="url" value="https://repo1.maven.org/maven2" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="49e518e8-6f08-48f5-96d9-06cb1009fc84" />
+      <option name="name" value="49e518e8-6f08-48f5-96d9-06cb1009fc84" />
+      <option name="url" value="http://repo2.maven.org/maven2/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="jboss.community" />
+      <option name="name" value="JBoss Community repository" />
+      <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="a3ec6aeb-3b4f-4f27-9a42-43e9c3462d6b" />
+      <option name="name" value="a3ec6aeb-3b4f-4f27-9a42-43e9c3462d6b" />
+      <option name="url" value="http://maven.aliyun.com/nexus/content/group/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="09eb524c-50c5-4da6-a49b-8ed84da282d5" />
+      <option name="name" value="09eb524c-50c5-4da6-a49b-8ed84da282d5" />
+      <option name="url" value="https://maven-central.storage.googleapis.com" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="netflix-candidates" />
+      <option name="name" value="Netflix Candidates" />
+      <option name="url" value="https://artifactory-oss.prod.netflix.net/artifactory/maven-oss-candidates" />
+    </remote-repository>
+  </component>
+</project>

@@ -1,0 +1,18 @@
+eureka:
+  client:
+    serviceUrl:
+      #??????
+      defaultZone: http://localhost:8888/eureka/
+server:
+  #????
+  port: 8763
+spring:
+  application:
+    #??????
+    name: service-provider
+info:
+  app.name: springcloud-demo
+  company.name: www.sti.com
+  build.artifactId: $project.artifactId$
+  build.version: $project.version$
+
